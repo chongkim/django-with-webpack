@@ -4,6 +4,6 @@
 - webpack-dev-server
 - hot module replacement with js
 - hot module replacement with css
-o babel
-o react
-o react-hot-loader
+- babel
+- react
+- react-hot-loader

@@ -1,7 +1,6 @@
-const name = document.getElementById('name');
+import React from 'react';
+import { hot } from 'react-hot-loader';
 
-name.innerText = 'x';
+const Name = () => 'Chong';
 
-if (module.hot) {
-  module.hot.accept();
-}
+export default hot(module)(Name);
