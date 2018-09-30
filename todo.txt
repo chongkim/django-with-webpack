@@ -2,7 +2,7 @@
 - home page
 - webpack
 - webpack-dev-server
-o hot module replacement with js
+- hot module replacement with js
 o hot module replacement with css
 o babel
 o react

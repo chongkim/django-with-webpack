@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon -w webpack.config.js -x webpack-dev-server",
+    "start": "nodemon -w webpack.config.js -x webpack-dev-server --hot",
     "build": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
