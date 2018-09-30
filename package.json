@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon -w webpack.config.js -x webpack-dev-server",
     "build": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,5 +14,9 @@
   "dependencies": {
     "webpack": "^4.20.2",
     "webpack-cli": "^3.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4",
+    "webpack-dev-server": "^3.1.9"
   }
 }
