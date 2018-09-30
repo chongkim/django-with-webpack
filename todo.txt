@@ -3,7 +3,7 @@
 - webpack
 - webpack-dev-server
 - hot module replacement with js
-o hot module replacement with css
+- hot module replacement with css
 o babel
 o react
 o react-hot-loader
