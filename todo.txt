@@ -1,6 +1,6 @@
 - django
 - home page
-o webpack
+- webpack
 o webpack-dev-server
 o hot module replacement with js
 o hot module replacement with css
